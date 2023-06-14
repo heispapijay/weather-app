@@ -6,4 +6,4 @@ This is a weather app that was made with html, css and javascript. The use of we
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
